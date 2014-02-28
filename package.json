@@ -1,0 +1,16 @@
+{
+  "name": "json-prettifier",
+  "main": "./lib/json-prettifier",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Make JSON pretty",
+  "activationEvents": [
+    "json-prettifier:prettify-json"
+  ],
+  "repository": "https://github.com/BinaryMuse/atom-json-prettifier",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
